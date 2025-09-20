@@ -1,0 +1,22 @@
+# Dependencies
+/node_modules
+
+# Environment variables
+.env
+
+# Logs
+*.log
+npm-debug.log*
+
+# SQLite database
+src/database/connexa.sqlite
+
+# Build output
+/build
+/dist
+
+# macOS
+.DS_Store
+
+# Coverage reports
+/coverage
